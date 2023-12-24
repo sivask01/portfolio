@@ -1,5 +1,5 @@
 import React from "react";
-import TwitterLogo from "@images/icons/twitter-logo.svg";
+import InstagramLogo from "@images/icons/instagram_logo.svg";
 import GithubLogo from "@images/icons/github-logo.svg";
 import MailLogo from "@images/icons/mail-logo.svg";
 import LinkedInLogo from "@images/icons/linkedin-logo.svg";
@@ -16,8 +16,8 @@ const contactInfoArr = [
     url: "https://www.linkedin.com/in/yaganti-sivakrishna-28b825190/",
   },
   {
-    id: "twitter",
-    icon: TwitterLogo,
+    id: "instagram",
+    icon: InstagramLogo,
     url: "https://www.instagram.com/sivakrishh45/",
   },
   {

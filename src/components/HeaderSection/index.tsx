@@ -44,7 +44,7 @@ function HeaderSection() {
             <AppButton
               ariaLabel=""
               buttonType="primary"
-              onClick={() => console.log("hello")}
+              onClick={() => window.location.href = 'tel:+14082104128'}
               buttonText="Contact Me"
             />
             <AppButton
